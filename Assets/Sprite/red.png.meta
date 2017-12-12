@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: f0d7c0c1516cfc740a73e52f739b0bf7
+timeCreated: 1443987629
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_0
+    21300002: red_1
+    21300004: red_2
+    21300006: red_3
+    21300008: red_4
+    21300010: red_5
+    21300012: red_6
+    21300014: red_7
+    21300016: red_8
+    21300018: red_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: red_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 185
+        height: 136
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 186
+        height: 163
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 186
+        height: 174
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 186
+        height: 186
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 186
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 185
+        height: 209
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 185
+        height: 218
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_7
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 0
+        width: 185
+        height: 229
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_8
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 185
+        height: 238
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: red_9
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 185
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
